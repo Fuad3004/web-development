@@ -1,0 +1,17 @@
+{
+  "name": "signup-page",
+  "version": "1.0.0",
+  "description": "Creating a log in page",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Fuad Bin Ahmed",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "bootstrap": "^5.3.0",
+    "express": "^4.18.2",
+    "rquest": "^0.1.0"
+  }
+}
